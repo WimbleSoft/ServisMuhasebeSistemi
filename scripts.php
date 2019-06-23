@@ -1,37 +1,38 @@
 
-<!-- jQuery 2.2.3 -->
-<script src="plugins/jQuery/jquery-2.2.3.min.js"></script>
-<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<!-- jQuery 3.4.1 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
 <script>
   $.widget.bridge('uibutton', $.ui.button);
 </script>
-<!-- Bootstrap 3.3.6 -->
-<script src="bootstrap/js/bootstrap.min.js"></script>
-<!-- Morris.js charts -->
+<!-- Bootstrap 3.4.1 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<!-- morris.min.js charts -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
-<script src="plugins/morris/morris.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.min.js"></script>
 <!-- DataTables -->
-<script src="plugins/datatables/jquery.dataTables.min.js"></script>
-<script src="plugins/datatables/dataTables.bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap4.min.js"></script>
 <!-- Sparkline -->
-<script src="plugins/sparkline/jquery.sparkline.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sparklines/2.1.2/jquery.sparkline.min.js"></script>
 <!-- jvectormap -->
-<script src="plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
-<script src="plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jvectormap/1.2.2/jquery-jvectormap.min.js"></script>
 <!-- jQuery Knob Chart -->
-<script src="plugins/knob/jquery.knob.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-Knob/1.2.13/jquery.knob.min.js"></script>
 <!-- daterangepicker -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.2/moment.min.js"></script>
-<script src="plugins/daterangepicker/daterangepicker.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-daterangepicker/3.0.5/daterangepicker.js"></script>
 <!-- datepicker -->
-<script src="plugins/datepicker/bootstrap-datepicker.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/js/bootstrap-datepicker.min.js"></script>
 <!-- Bootstrap WYSIHTML5 -->
-<script src="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap3-wysiwyg/0.3.3/bootstrap3-wysihtml5.all.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.2/handlebars.runtime.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.2/handlebars.min.js"></script>
 <!-- SlimScroll -->
-<script src="plugins/slimScroll/jquery.slimscroll.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-slimScroll/1.3.8/jquery.slimscroll.min.js"></script>
 <!-- FastClick -->
-<script src="plugins/fastclick/fastclick.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
 <!-- AdminLTE App -->
 <script src="dist/js/app.min.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
