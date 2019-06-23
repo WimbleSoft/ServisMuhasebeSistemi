@@ -15,18 +15,18 @@ echo '<meta http-equiv="refresh" content="0;URL=giris.php">';
 	$sep = "\t";
 		$csv_fields = array();
 		$csv_fields[] = 'ID';
-		$csv_fields[] = 'TARÝH';
-		$csv_fields[] = 'ÝÞ EMRÝ';
-		$csv_fields[] = 'GELÝÞ';
+		$csv_fields[] = 'TARÄ°H';
+		$csv_fields[] = 'Ä°Åž EMRÄ°';
+		$csv_fields[] = 'GELÄ°';
 		$csv_fields[] = 'IMEI';
 		$csv_fields[] = 'MODEL';
 		$csv_fields[] = 'M. AD';
 		$csv_fields[] = 'M. SOYAD';
 		$csv_fields[] = 'TELEFON';
-		$csv_fields[] = 'ÜCRET';
-		$csv_fields[] = 'ÖDEME';
-		$csv_fields[] = 'AÇIKLAMA';
-		$csv_fields[] = 'GELÝRGÝDER';
+		$csv_fields[] = 'ÃœCRET';
+		$csv_fields[] = 'Ã–DEME';
+		$csv_fields[] = 'AÃ‡IKLAMA';
+		$csv_fields[] = 'GELÄ°RGÄ°DER';
 		
 	for($i=0;$i<13;$i++)
 	{
